@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.payment{
+    display: flex;
+    flex-direction: row;
+}
+
+button{
+    background-color: #C2DE33;
+    color : #fff;
+    padding: 10px;
+    width: 200px;
+    font-size: 20px;
+    border: none;
+}
+.community{
+    background-color: #fff;
+    padding: 5% 3%;
+    font-size: 20px;
+    width: 900px;
+}
+.com{
+    color: #DCED6F;
+    padding-bottom: 9px; ;
+}
+
+h3{
+    color: #B4F5F1;
+    padding-bottom: 25px;
+}
+
+.text{
+   color :#EAEAEA;
+}
+
+.subscription{
+    background-color: #2BB3B3;
+    color: #AEE6E5;
+    width: 700px;
+    height: 300px;
+    padding: 3% 4%;
+}
+
+.reason{
+    background-color: #4CBEBE;
+    color: #D4FFFF;
+    width: 700px;
+    height: 300px;
+    padding: 3% 4%;
+    text-align: left;
+}
+.tex{
+    width: 300px;
+}
+
+h4{
+    padding-bottom: 15px;
+    font-size: 1.2rem; 
+    font-weight: bold;
+}
+
+p{
+    padding-bottom: 15px;
+    font-size: 20px;
+}
+
+.rea{
+    word-spacing: 15px;
+}
